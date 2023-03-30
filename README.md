@@ -8,6 +8,7 @@
 <h1> Hosting Site </h1>
 <a href="https://www.infinityfree.net/"> Free and Unlimited ❗ </a>
 <br>
+<br>
 
-<i> This project is under maintenance and will innovate soon </i>
+<i> Note: This project is under maintenance and will innovate soon </i>
  
