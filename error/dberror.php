@@ -1,0 +1,1 @@
+<script>alert('Make sure the database is connected')</script>
